@@ -1,6 +1,45 @@
+Math Magicians
+A Todo Application created using React.
+
+Built With
+React
+JavaScript
+Webpack
+See Project 🌐
+Follow the link to view the website:
+
+Getting Started
+You may setup the project on your local machine using the following steps:
+
+Open the terminal
+Get into the directory you want this folder to appear
+Type 'git clone https://github.com/Draxeytina/todo-app.git'
+Open index.html file and open it with live server in your preferred editor
+Optionally you can follow the link under see project above ☝️
+
+Author 🖋️
+👤 Tinashe Timothy Murambinda
+
+Github
+Twitter
+LinkedIn
+Contributing
+You are welcome to make any contributions, issues, and feature requests!
+
+Show your support
+If you like this project please give a ⭐️!
+
+Acknowledgments
+I would like to acknowledge the following for making this a success:
+
+My coding partners
+The Microverse code reviewers
+📝 License
+This project is MIT licensed.
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/todo-app).
 
 ## Available Scripts
 
